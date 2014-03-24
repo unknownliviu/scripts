@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 number = Time.now.strftime('%U')
 number = number.to_i - 6
 s = "Săptămâna este "
